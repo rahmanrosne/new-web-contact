@@ -1,0 +1,64 @@
+ .header{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 340px;
+}
+.header-slider img{
+    width: 100%;
+}
+.menu-section{
+    width: 20%;
+    background-color: rgb(227, 232, 232);
+    border-right: 1px solid black;
+}
+.content-section{
+    width: 80%;
+}
+
+.content-section{
+    background-color: rgb(235, 230, 224);
+    padding-left: 25px;
+    padding-top: 35px;
+    padding-bottom: 7px;
+}
+
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.menu-section ul{
+    margin: 0;
+    padding: 0;
+   
+    
+
+}
+.menu-section ul li{
+    list-style: none;
+    padding: 15px; 
+    border-bottom: 1px solid black;
+}
+.menu-section ul li a{
+    color: rgb(244, 8, 40);
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.menucontent{
+    display: flex;
+    padding-bottom: 15px;
+}
+.cotent-section h2{
+    text-align: center;
+}
+.footer-section{
+    background-color: rgb(243, 247, 247);
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    font-size: large;
+    padding-top: 1px;
+} 
